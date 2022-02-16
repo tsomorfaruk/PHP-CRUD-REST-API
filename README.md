@@ -12,15 +12,15 @@ Create a database in phpmyadmin and then import the products.sql file on it, cha
 
 Here are the end points :
 
-http://localhost/YOUR_FOLDER_NAME/api/create.php
+https://182.160.102.229/api/create.php
 
-http://localhost/YOUR_FOLDER_NAME/api/get-all-products.php
+https://182.160.102.229/api/get-all-products.php
 
-http://localhost/YOUR_FOLDER_NAME/api/get-product.php?product_id=YOUR_PRODUCT_ID
+https://182.160.102.229/api/get-product.php?product_id=YOUR_PRODUCT_ID
 
-http://localhost/YOUR_FOLDER_NAME/api/update-product.php?product_id=YOUR_PRODUCT_ID
+https://182.160.102.229/api/update-product.php?product_id=YOUR_PRODUCT_ID
 
-http://localhost/YOUR_FOLDER_NAME/api/delete-product.php?product_id=YOUR_PRODUCT_ID
+https://182.160.102.229/api/delete-product.php?product_id=YOUR_PRODUCT_ID
 
 
 ## App Information
